@@ -16,4 +16,4 @@ The problem is as follows :
 
 I first noticed that there was an error in the formulation of the problem. Indeed in the problem the set of actions contains 0, but in the case where the probability of head < 0.5 the policy be to choose 0 all the time and the game will be infinite. The solution is to start the action interval at 1.
 
-The results show that the optimal policy Ph < 0.5 is to finish the game as soon as possible. When Ph > 0.5 the policy make the game last as long as possible.
+The results show that the optimal policy for Ph < 0.5 is to finish the game as soon as possible. When Ph > 0.5 the policy make the game last as long as possible.
