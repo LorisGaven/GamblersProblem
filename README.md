@@ -9,8 +9,8 @@ The problem is as follows :
 
 ## Plots for différents P_head
 
-![alt text](https://github.com/LorisGaven/GamblersProblem/plot_ph_0_25.png?raw=true)
-![alt text](https://github.com/LorisGaven/GamblersProblem/plot_ph_0_55.png?raw=true)
+![alt text](https://github.com/LorisGaven/GamblersProblem/blob/main/plot_ph_0_25.png?raw=true)
+![alt text](https://github.com/LorisGaven/GamblersProblem/blob/main/plot_ph_0_55.png?raw=true)
 
 ## My comments
 
